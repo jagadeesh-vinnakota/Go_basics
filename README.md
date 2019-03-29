@@ -8,5 +8,5 @@ Run the Go file
 2. go run filename.go
 
 Folder Structure
-1. Functions: Contains basic creation and usage of functions
-2. Packages: Contains basic creation and usage of packages
+1. src/functions: Contains basic creation and usage of functions
+2. src/packages: Contains basic creation and usage of packages
